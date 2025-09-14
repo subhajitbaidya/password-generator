@@ -32,7 +32,7 @@ A modern, responsive password generator built with React and Tailwind CSS. Gener
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/subhajitbaidya/password-generator.git
    cd password-generator
    ```
 
@@ -133,7 +133,7 @@ The application consists of a single main component that handles all functionali
 
 ### 🚀 Deployment
 
-- **GitHub Pages**: Use `gh-pages` package
+- **GitHub Pages**: [Password Generator](https://subhajitbaidya.github.io/password-generator/)
 
 ## 🤝 Contributing
 
