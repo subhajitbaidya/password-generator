@@ -1,7 +1,6 @@
 {
   "name": "password-generator",
   "private": true,
-  "homepage": "https://subhajitbaidya.github.io/password-generator",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
